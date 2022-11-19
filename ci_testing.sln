@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ci_testing_project", "src\ci_testing_project\ci_testing_project.csproj", "{016F5ADB-E48F-4952-8BE5-C0480137C45D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2F5200CB-EC86-4F33-B06F-8DD726E5FA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016F5ADB-E48F-4952-8BE5-C0480137C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016F5ADB-E48F-4952-8BE5-C0480137C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016F5ADB-E48F-4952-8BE5-C0480137C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016F5ADB-E48F-4952-8BE5-C0480137C45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{016F5ADB-E48F-4952-8BE5-C0480137C45D} = {2F5200CB-EC86-4F33-B06F-8DD726E5FA47}
+	EndGlobalSection
+EndGlobal
